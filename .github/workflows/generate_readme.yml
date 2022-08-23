@@ -13,7 +13,7 @@ on:
       - main.py
 
 env:
-  GITHUB_NAME: fanfan
+  GITHUB_NAME: fanfan50
   GITHUB_EMAIL: fanjin2013@126.com
 
 jobs:
