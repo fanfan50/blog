@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/fanfan50/blog</id><title>RSS feed of fanfan50's blog</title><updated>2022-09-01T01:05:49.177222+00:00</updated><author><name>fanfan50</name><email>fanjin2013@126.com</email></author><link href="https://github.com/fanfan50/blog"/><link href="https://raw.githubusercontent.com/fanfan50/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/fanfan50/blog/issues/2</id><title>我的学习计划和完成情况</title><updated>2022-09-01T01:05:49.389555+00:00</updated><content type="html"><![CDATA[<pre><code>    在note中记录了本周的学习计划。周期为周日-周六。
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/fanfan50/blog</id><title>RSS feed of fanfan50's blog</title><updated>2022-09-01T23:59:52.192455+00:00</updated><author><name>fanfan50</name><email>fanjin2013@126.com</email></author><link href="https://github.com/fanfan50/blog"/><link href="https://raw.githubusercontent.com/fanfan50/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/fanfan50/blog/issues/2</id><title>2022</title><updated>2022-09-01T23:59:52.399626+00:00</updated><content type="html"><![CDATA[<pre><code>    在note中记录了本周的学习计划。周期为周日-周六。
 </code></pre>
 <p>在周日对上周的计划的完成情况做修改。同时制定本周计划。
 计划先写上两年半的周报，从2022.09-2024.12，一定要记录英语学习情况和计算机学习情况。</p>
 <p>本来是准备学习1000个小时计算机和若干个小时的English的。现在觉得以时间为导向不如以输出为导向。英语暂定的目标就是从本周到12月底，每周听写一篇EnglishPod对话。</p>
 <p><a href="https://github.com/fanfan50/note/issues/2">https://github.com/fanfan50/note/issues/2</a></p>
-]]></content><link href="https://github.com/fanfan50/blog/issues/2" rel="alternate"/><published>2022-09-01T01:03:24+00:00</published></entry><entry><id>https://github.com/fanfan50/blog/issues/1</id><title>第一次建立个人博客</title><updated>2022-09-01T01:05:49.504294+00:00</updated><content type="html"><![CDATA[<p>第一次建立个人博客
+]]></content><link href="https://github.com/fanfan50/blog/issues/2" rel="alternate"/><category term="2022"/><published>2022-09-01T01:03:24+00:00</published></entry><entry><id>https://github.com/fanfan50/blog/issues/1</id><title>第一次建立个人博客</title><updated>2022-09-01T23:59:52.515907+00:00</updated><content type="html"><![CDATA[<p>第一次建立个人博客
 无事小神仙</p>
 ]]></content><link href="https://github.com/fanfan50/blog/issues/1" rel="alternate"/><category term="一些记录"/><published>2022-08-23T02:44:32+00:00</published></entry></feed>

@@ -5,7 +5,9 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
-- [我的学习计划和完成情况](https://github.com/fanfan50/blog/issues/2)--2022-09-01
+- [2022](https://github.com/fanfan50/blog/issues/2)--2022-09-01
 - [第一次建立个人博客](https://github.com/fanfan50/blog/issues/1)--2022-08-23
+## 2022
+- [2022](https://github.com/fanfan50/blog/issues/2)--2022-09-01
 ## 一些记录
 - [第一次建立个人博客](https://github.com/fanfan50/blog/issues/1)--2022-08-23
