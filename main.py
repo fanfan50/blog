@@ -165,8 +165,8 @@ def add_md_firends(repo, md, me):
         md.write("## 友情链接\n")
         md.write(s)
  
-def add_md_repo, md, me):
-    s = FRIENDS_TABLE_HEAD
+def add_md_wiki(repo, md, me):
+    s = "wiki 目录"
     friends_issues = list(repo.get_issues(labels=FRIENDS_LABELS))
     for issue in friends_issues:
         for comment in issue.get_comments():
