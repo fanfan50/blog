@@ -4,6 +4,9 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 ## 友情链接
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
+## my wiki
+| Name | Link | Desc | 
+ | ---- | ---- | ---- |
 ## 最近更新
 - [程序媛的书单](https://github.com/fanfan50/blog/issues/4)--2022-09-03
 - [DreamLife](https://github.com/fanfan50/blog/issues/3)--2022-09-03
