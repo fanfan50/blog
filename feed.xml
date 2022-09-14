@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/fanfan50/blog</id><title>RSS feed of fanfan50's blog</title><updated>2022-09-11T01:46:44.039434+00:00</updated><author><name>fanfan50</name><email>fanjin2013@126.com</email></author><link href="https://github.com/fanfan50/blog"/><link href="https://raw.githubusercontent.com/fanfan50/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/fanfan50/blog/issues/4</id><title>程序媛的书单</title><updated>2022-09-11T01:46:44.212872+00:00</updated><content type="html"><![CDATA[<p>数据结构和算法</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/fanfan50/blog</id><title>RSS feed of fanfan50's blog</title><updated>2022-09-14T06:25:12.009321+00:00</updated><author><name>fanfan50</name><email>fanjin2013@126.com</email></author><link href="https://github.com/fanfan50/blog"/><link href="https://raw.githubusercontent.com/fanfan50/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/fanfan50/blog/issues/4</id><title>程序媛的书单</title><updated>2022-09-14T06:25:12.501342+00:00</updated><content type="html"><![CDATA[<p>数据结构和算法</p>
 <ul>
 <li><input disabled="" type="checkbox"> 入门的趣味书 ：《大话数据结构》和《算法图解》</li>
 <li><input disabled="" type="checkbox"> 教科书 ：《数据结构与算法分析：Java 语言描述》</li>
@@ -8,7 +8,7 @@
 <li><input disabled="" type="checkbox"> 殿堂级经典：《计算机程序设计艺术》</li>
 <li><input disabled="" type="checkbox"> 闲暇阅读：《算法帝国》《数学之美》《算法之美》</li>
 </ul>
-]]></content><link href="https://github.com/fanfan50/blog/issues/4" rel="alternate"/><category term="程序媛的自我修养"/><published>2022-09-03T00:15:31+00:00</published></entry><entry><id>https://github.com/fanfan50/blog/issues/3</id><title>DreamLife</title><updated>2022-09-11T01:46:44.335890+00:00</updated><content type="html"><![CDATA[<ul>
+]]></content><link href="https://github.com/fanfan50/blog/issues/4" rel="alternate"/><category term="程序媛的自我修养"/><published>2022-09-03T00:15:31+00:00</published></entry><entry><id>https://github.com/fanfan50/blog/issues/3</id><title>DreamLife</title><updated>2022-09-14T06:25:12.734999+00:00</updated><content type="html"><![CDATA[<ul>
 <li>i want i have a house </li>
 <li>i want i have a lover and baby</li>
 <li>i want my parents are healthy</li>
@@ -20,12 +20,12 @@
 <li>i want i can earn money to support my family</li>
 <li>i want i have some good  friends </li>
 </ul>
-]]></content><link href="https://github.com/fanfan50/blog/issues/3" rel="alternate"/><category term="一些计划"/><published>2022-09-03T00:11:00+00:00</published></entry><entry><id>https://github.com/fanfan50/blog/issues/2</id><title>2022周报</title><updated>2022-09-11T01:46:44.411203+00:00</updated><content type="html"><![CDATA[<pre><code>    在note中记录了本周的学习计划。周期为周日-周六。
+]]></content><link href="https://github.com/fanfan50/blog/issues/3" rel="alternate"/><category term="一些计划"/><published>2022-09-03T00:11:00+00:00</published></entry><entry><id>https://github.com/fanfan50/blog/issues/2</id><title>2022周报</title><updated>2022-09-14T06:25:12.966949+00:00</updated><content type="html"><![CDATA[<pre><code>    在note中记录了本周的学习计划。周期为周日-周六。
 </code></pre>
 <p>在周日对上周的计划的完成情况做修改。同时制定本周计划。
 计划先写上两年半的周报，从2022.09-2024.12，一定要记录英语学习情况和计算机学习情况。</p>
 <p>本来是准备学习1000个小时计算机和若干个小时的English的。现在觉得以时间为导向不如以输出为导向。英语暂定的目标就是从本周到12月底，每周听写一篇EnglishPod对话。</p>
 <p><a href="https://github.com/fanfan50/note/issues/2">https://github.com/fanfan50/note/issues/2</a></p>
-]]></content><link href="https://github.com/fanfan50/blog/issues/2" rel="alternate"/><category term="一些记录"/><published>2022-09-01T01:03:24+00:00</published></entry><entry><id>https://github.com/fanfan50/blog/issues/1</id><title>第一次建立个人博客</title><updated>2022-09-11T01:46:44.490384+00:00</updated><content type="html"><![CDATA[<p>第一次建立个人博客
+]]></content><link href="https://github.com/fanfan50/blog/issues/2" rel="alternate"/><category term="一些记录"/><published>2022-09-01T01:03:24+00:00</published></entry><entry><id>https://github.com/fanfan50/blog/issues/1</id><title>第一次建立个人博客</title><updated>2022-09-14T06:25:13.186406+00:00</updated><content type="html"><![CDATA[<p>第一次建立个人博客
 无事小神仙</p>
 ]]></content><link href="https://github.com/fanfan50/blog/issues/1" rel="alternate"/><category term="碎碎记"/><published>2022-08-23T02:44:32+00:00</published></entry></feed>
