@@ -86,6 +86,9 @@ def login(token):
 
 
 def get_repo(user: Github, repo: str):
+    repoGit = user.get_repo(repo)
+    print(repoGit.name)
+    print(dir(repoGit))
     return user.get_repo(repo)
 
 
