@@ -88,10 +88,10 @@ def login(token):
 def get_repo(user: Github, repo: str):
     repoGit = user.get_repo(repo)
 
-    print(repoGit.homepage)
-    print(repoGit.hooks_url)
-    print(dir(repoGit))
-    print(dir(repoGit.hooks_url))
+    print("----------------events_url------------")
+    print(repoGit.events_url)
+    print("----------------events_url 中的属性------------")
+    print(dir(repoGit.events_url))
     return user.get_repo(repo)
 
 
