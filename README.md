@@ -8,11 +8,11 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [2022年末总结和2023新年展望](https://github.com/fanfan50/blog/issues/10)--2023-01-02
 - [开始学习板绘啦](https://github.com/fanfan50/blog/issues/9)--2022-12-25
 - [什么是人生呢？](https://github.com/fanfan50/blog/issues/8)--2022-10-17
 - [琵琶练习全记录](https://github.com/fanfan50/blog/issues/7)--2022-10-17
 - [平静](https://github.com/fanfan50/blog/issues/6)--2022-10-08
-- [做一个自己喜欢的人](https://github.com/fanfan50/blog/issues/5)--2022-10-02
 ## 一些思考
 - [什么是人生呢？](https://github.com/fanfan50/blog/issues/8)--2022-10-17
 - [做一个自己喜欢的人](https://github.com/fanfan50/blog/issues/5)--2022-10-02
