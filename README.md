@@ -9,10 +9,10 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
  | ---- | ---- | ---- |
 ## 最近更新
 - [执念](https://github.com/fanfan50/blog/issues/13)--2023-01-08
-- [2023周报](https://github.com/fanfan50/blog/issues/11)--2023-01-03
 - [2022年末总结和2023新年展望](https://github.com/fanfan50/blog/issues/10)--2023-01-02
 - [开始学习板绘啦](https://github.com/fanfan50/blog/issues/9)--2022-12-25
 - [什么是人生呢？](https://github.com/fanfan50/blog/issues/8)--2022-10-17
+- [琵琶练习全记录](https://github.com/fanfan50/blog/issues/7)--2022-10-17
 ## 一些思考
 - [执念](https://github.com/fanfan50/blog/issues/13)--2023-01-08
 - [什么是人生呢？](https://github.com/fanfan50/blog/issues/8)--2022-10-17
@@ -20,7 +20,6 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 ## 一些情绪
 - [平静](https://github.com/fanfan50/blog/issues/6)--2022-10-08
 ## 一些计划
-- [2023周报](https://github.com/fanfan50/blog/issues/11)--2023-01-03
 - [2022年末总结和2023新年展望](https://github.com/fanfan50/blog/issues/10)--2023-01-02
 - [DreamLife](https://github.com/fanfan50/blog/issues/3)--2022-09-03
 - [2022周报](https://github.com/fanfan50/blog/issues/2)--2022-09-01
